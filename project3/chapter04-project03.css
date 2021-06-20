@@ -1,0 +1,90 @@
+body
+{
+ background-image: url(images/art-background4.jpg);
+ background-size: 1300px 600px;
+ background-repeat: repeat;
+ margin: 1.7em, 1.7em;
+}
+ header h1
+{
+    font-size: 45px;
+    margin-left: 25px;
+    font-family: merriweather;
+    margin-bottom: 8px;
+}
+header h2
+{
+    font-size: 14px;
+    margin-left: 27px;
+    margin-top: 1px;
+}
+header
+{
+    color:white;
+    background-color:rgba(33,33,33,0.5);
+    background-repeat: repeat;
+    margin-top: 2px;
+    margin-right: 650px;
+    margin-left: 25px;
+    box-shadow: 8px 8px rgba(9,0,0,0.5);
+    width:490px;
+}
+main
+{
+    background-color:rgba(225,225,225,0.5);
+    background-repeat:repeat;
+    margin-left: 25px;
+    margin-right: 50px;
+    box-shadow: 8px 8px rgba(9,0,0,0.5);
+    width:490px;
+    margin-top: 50px;
+}
+main h2
+{
+    background-color:rgba(224,224,224,0.5);
+    background-repeat: repeat;
+    font-size: 20px;
+}
+main h2
+{
+    padding: 7px;
+}
+main p{
+    padding: 5px;
+
+}
+main p#footnote
+{
+color:red;
+font-size:14px;
+font-style:italic;
+}
+main p#timeline
+{
+    color:white;
+    background-color:rgba(66,66,66,0.5);
+    background-repeat:repeat;
+    margin-left:10px;
+    margin: right 1000px;
+}
+footer
+{
+    color:white;
+    background-color:rgba(33,33,33,0.5);
+    background-repeat:repeat;
+    margin-left:25px;
+    margin-right:730px;
+    box-shadow: 8px 8px rgba(9,0,0,0.5);
+    margin-top: 30px;
+}
+footer h2
+{
+    margin-left: 0.5em;
+    text-align: initial;
+}
+footer>div img
+{
+    border: solid 1.5px;
+    padding: 10px;
+    margin-top: 1px;
+}
