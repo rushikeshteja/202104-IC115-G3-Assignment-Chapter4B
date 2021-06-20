@@ -124,3 +124,7 @@ a
     font-weight: bold;
     color: #03A9F4;
 }
+h1, h2, h3, nav, footer, .actions
+{
+    font-family: "Roboto";
+}
